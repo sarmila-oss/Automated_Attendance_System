@@ -143,27 +143,33 @@ http://127.0.0.1:5000
 
 ### Login Page
 
-(Add Screenshot Here)
+<img width="900" height="541" alt="Screenshot 2026-07-06 162348" src="https://github.com/user-attachments/assets/fb0e82b2-ee88-4d7a-8df7-6b381b2ed770" />
+
+
 
 ### Dashboard
 
-(Add Screenshot Here)
+ <img width="1876" height="882" alt="Screenshot 2026-07-06 164054" src="https://github.com/user-attachments/assets/800c98d8-9467-4c8f-8290-bcd49d05494f" />
 
 ### Student Management
 
-(Add Screenshot Here)
+<img width="1901" height="911" alt="Screenshot 2026-07-06 164112" src="https://github.com/user-attachments/assets/659c355e-0c18-4425-b721-45fca81ac9ee" />
+
 
 ### Attendance
 
-(Add Screenshot Here)
+
+<img width="1450" height="641" alt="Screenshot 2026-07-06 164212" src="https://github.com/user-attachments/assets/455e677e-2071-45c0-8c57-f24e16269b2b" />
 
 ### Attendance Report
 
-(Add Screenshot Here)
+<img width="1466" height="685" alt="Screenshot 2026-07-06 164337" src="https://github.com/user-attachments/assets/d6814289-3258-4bdd-877f-bbd58a148cc6" />
+
 
 ### Faculty Management
 
-(Add Screenshot Here)
+<img width="1462" height="652" alt="Screenshot 2026-07-06 164352" src="https://github.com/user-attachments/assets/1102517c-7e59-4fa1-8cc3-8b2cdcd9f6b8" />
+
 
 ---
 
