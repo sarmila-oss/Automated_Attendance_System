@@ -189,7 +189,7 @@ http://127.0.0.1:5000
 
 **Sarmila V**
 
-Final Year Student
+3rd Year 
 
 Department of Information Technology
 
